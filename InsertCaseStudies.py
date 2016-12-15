@@ -10,6 +10,7 @@ import time
 import json
 from pprint import pprint
 
+
 # Extracts the information from a single case study, creates a payload object containing the corpusID and API key ready to be sent
 def case_study_insert_request(caseStudy, corpus_id, api_key):
 
@@ -117,10 +118,99 @@ def process_case_studies(filename, api_key, corpus_id):
     return dataArray
 
 
-# parameters
+#
+# Methods to help generate counts
+#
+
+def populate_impact_types():
+    # Load JSON File
+    with open("ImpactType.json") as data_file:
+        ImpactTypes = json.load(data_file)
+        print("ImpactTypes", len(ImpactTypes))
+        return ImpactTypes
+
+def populate_subjects():
+    # Load JSON File
+    with open("subjects.json") as data_file:
+        Subjects = json.load(data_file)
+        print("Subjects", len(Subjects))
+        return Subjects
+
+def populate_units_of_assessment():
+    # Load JSON File
+    with open("UnitOfAssessment.json") as data_file:
+        UnitOfAssessment = json.load(data_file)
+        print("UnitOfAssessment", len(UnitOfAssessment))
+        return UnitOfAssessment
+
+def populate_funders():
+    # Load JSON File
+    with open("funders.json") as data_file:
+        Funders = json.load(data_file)
+        Funders.append({"ID": 50000, "Name": "None Specified"})
+        print("Funders:", len(Funders))
+        return Funders
+
+def populate_institutions():
+    # Load JSON File
+    with open("institutions.json") as data_file:
+        Institutions = json.load(data_file)
+        print("Institutions", len(Institutions))
+        return Institutions
+
+def extend_reference_lists(ImpactTypes, Subjects, UnitOfAssessment, Institutions, Funders):
+
+    ### FUNDERS
+    for funder in Funders:
+        funder["Institutions"] = []
+        for institution in Institutions:
+            funder["Institutions"].append({"InstitutionName": institution["InstitutionName"], "UKPRN": institution["UKPRN"], "Count": 0})
+
+        funder["ImpactAreas"] = []
+        for impact in ImpactTypes:
+            funder["ImpactAreas"].append({"ID": impact["ID"], "Name": impact["Name"], "Count": 0})
+
+        funder["SubjectAreas"] = []
+        for subject in Subjects:
+            funder["SubjectAreas"].append({"ID": subject["ID"], "Name": subject["Name"], "Count": 0})
+
+        funder["CaseStudies"] = []
+
+
+    ### INSTITUTIONS
+    for institution in Institutions:
+        institution["Funders"] = []
+
+        for funder in Funders:
+
+            funderImpacts = []
+            for impact in ImpactTypes:
+                funderImpacts.append({"ID": impact["ID"], "Name": impact["Name"], "Count": 0})
+
+            funderSubjects = []
+            for subject in Subjects:
+                funderSubjects.append({"ID": subject["ID"], "Name": subject["Name"], "Count": 0})
+
+            CaseStudies = []
+
+            institution["Funders"].append({ "Name": funder["Name"], "ImpactAreas": funderImpacts, "SubjectAreas": funderSubjects, "CaseStudies": [] } )
+
+#
+# Script Begins
+#
+
+# Populate all the reference lists
+
+ImpactTypes = populate_impact_types()
+Subjects = populate_subjects()
+UnitOfAssessment= populate_units_of_assessment()
+Institutions = populate_institutions()
+Funders = populate_funders()
+extend_reference_lists(ImpactTypes, Subjects, UnitOfAssessment, Institutions, Funders)
+
+# Pteraform Parameters
 api_key = "a1df798b5a10274bf32106303e91f05f"
 corpus_id = 52
-file_name = "allStudies.json"
 
-dataArray = process_case_studies(file_name, api_key, corpus_id)
+dataArray = process_case_studies("allStudies.json", api_key, corpus_id)
 len(dataArray)
