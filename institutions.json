@@ -1,0 +1,1087 @@
+[
+    {
+        "AlternativeName": "Open University",
+        "InstitutionName": "Open University",
+        "PeerGroup": "D",
+        "Region": "South East",
+        "UKPRN": 10007773
+    },
+    {
+        "AlternativeName": "Cranfield University",
+        "InstitutionName": "Cranfield University",
+        "PeerGroup": "B",
+        "Region": "East",
+        "UKPRN": 10007822
+    },
+    {
+        "AlternativeName": "Royal College of Art",
+        "InstitutionName": "Royal College of Art",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007777
+    },
+    {
+        "AlternativeName": "Bishop Grosseteste University",
+        "InstitutionName": "Bishop Grosseteste University",
+        "PeerGroup": "F",
+        "Region": "East Midlands",
+        "UKPRN": 10007811
+    },
+    {
+        "AlternativeName": "Buckinghamshire New University",
+        "InstitutionName": "Buckinghamshire New University",
+        "PeerGroup": "E",
+        "Region": "South East",
+        "UKPRN": 10000975
+    },
+    {
+        "AlternativeName": "Royal Central School of Speech and Drama",
+        "InstitutionName": "Royal Central School of Speech & Drama",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007816
+    },
+    {
+        "AlternativeName": "Chester (University of)",
+        "InstitutionName": "University of Chester",
+        "PeerGroup": "E",
+        "Region": "North West",
+        "UKPRN": 10007848
+    },
+    {
+        "AlternativeName": "Canterbury Christ Church University",
+        "InstitutionName": "Canterbury Christ Church University",
+        "PeerGroup": "E",
+        "Region": "South East",
+        "UKPRN": 10001143
+    },
+    {
+        "AlternativeName": "York St John University",
+        "InstitutionName": "York St John University",
+        "PeerGroup": "F",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10007713
+    },
+    {
+        "AlternativeName": "Edge Hill University",
+        "InstitutionName": "Edge Hill University",
+        "PeerGroup": "E",
+        "Region": "North West",
+        "UKPRN": 10007823
+    },
+    {
+        "AlternativeName": "Falmouth University",
+        "InstitutionName": "Falmouth University",
+        "PeerGroup": "G",
+        "Region": "South West",
+        "UKPRN": 10008640
+    },
+    {
+        "AlternativeName": "Harper Adams University",
+        "InstitutionName": "Harper Adams University",
+        "PeerGroup": "F",
+        "Region": "West Midlands",
+        "UKPRN": 10002901
+    },
+    {
+        "AlternativeName": "Winchester (University of)",
+        "InstitutionName": "University of Winchester",
+        "PeerGroup": "F",
+        "Region": "South East",
+        "UKPRN": 10003614
+    },
+    {
+        "AlternativeName": "Liverpool Hope University",
+        "InstitutionName": "Liverpool Hope University",
+        "PeerGroup": "D",
+        "Region": "North West",
+        "UKPRN": 10003956
+    },
+    {
+        "AlternativeName": "London (University of the Arts)",
+        "InstitutionName": "University of the Arts London",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007162
+    },
+    {
+        "AlternativeName": "Bedfordshire (University of)",
+        "InstitutionName": "University of Bedfordshire",
+        "PeerGroup": "E",
+        "Region": "East",
+        "UKPRN": 10007152
+    },
+    {
+        "AlternativeName": "Northampton (University of)",
+        "InstitutionName": "University of Northampton",
+        "PeerGroup": "E",
+        "Region": "East Midlands",
+        "UKPRN": 10007138
+    },
+    {
+        "AlternativeName": "Newman University",
+        "InstitutionName": "Newman University",
+        "PeerGroup": "F",
+        "Region": "West Midlands",
+        "UKPRN": 10007832
+    },
+    {
+        "AlternativeName": "Roehampton University",
+        "InstitutionName": "Roehampton University",
+        "PeerGroup": "E",
+        "Region": "London",
+        "UKPRN": 10007776
+    },
+    {
+        "AlternativeName": "Rose Bruford College",
+        "InstitutionName": "Rose Bruford College",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10005523
+    },
+    {
+        "AlternativeName": "Royal Academy of Music",
+        "InstitutionName": "Royal Academy of Music",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007835
+    },
+    {
+        "AlternativeName": "Royal College of Music",
+        "InstitutionName": "Royal College of Music",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007778
+    },
+    {
+        "AlternativeName": "Royal Northern College of Music",
+        "InstitutionName": "Royal Northern College of Music",
+        "PeerGroup": "G",
+        "Region": "North West",
+        "UKPRN": 10007837
+    },
+    {
+        "AlternativeName": "Southampton Solent University",
+        "InstitutionName": "Southampton Solent University",
+        "PeerGroup": "E",
+        "Region": "South East",
+        "UKPRN": 10006022
+    },
+    {
+        "AlternativeName": "Cumbria (University of)",
+        "InstitutionName": "University of Cumbria",
+        "PeerGroup": "E",
+        "Region": "North West",
+        "UKPRN": 10007842
+    },
+    {
+        "AlternativeName": "St Mary's University College",
+        "InstitutionName": "St Mary's University, Twickenham",
+        "PeerGroup": "F",
+        "Region": "London",
+        "UKPRN": 10007843
+    },
+    {
+        "AlternativeName": "Leeds Trinity University",
+        "InstitutionName": "Leeds Trinity University",
+        "PeerGroup": "F",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10003863
+    },
+    {
+        "AlternativeName": "Trinity Laban Conservatoire of Music and Dance",
+        "InstitutionName": "Trinity Laban Conservatoire of Music & Dance",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10008017
+    },
+    {
+        "AlternativeName": "Worcester (University of)",
+        "InstitutionName": "University of Worcester",
+        "PeerGroup": "F",
+        "Region": "West Midlands",
+        "UKPRN": 10007139
+    },
+    {
+        "AlternativeName": "Anglia Ruskin University",
+        "InstitutionName": "Anglia Ruskin University",
+        "PeerGroup": "E",
+        "Region": "East",
+        "UKPRN": 10000291
+    },
+    {
+        "AlternativeName": "Bath Spa University",
+        "InstitutionName": "Bath Spa University",
+        "PeerGroup": "F",
+        "Region": "South West",
+        "UKPRN": 10000571
+    },
+    {
+        "AlternativeName": "Bolton (University of)",
+        "InstitutionName": "University of Bolton",
+        "PeerGroup": "E",
+        "Region": "North West",
+        "UKPRN": 10006841
+    },
+    {
+        "AlternativeName": "Bournemouth University",
+        "InstitutionName": "Bournemouth University",
+        "PeerGroup": "E",
+        "Region": "South West",
+        "UKPRN": 10000824
+    },
+    {
+        "AlternativeName": "Brighton (University of)",
+        "InstitutionName": "University of Brighton",
+        "PeerGroup": "C",
+        "Region": "South East",
+        "UKPRN": 10000886
+    },
+    {
+        "AlternativeName": "Birmingham City University",
+        "InstitutionName": "Birmingham City University",
+        "PeerGroup": "D",
+        "Region": "West Midlands",
+        "UKPRN": 10007140
+    },
+    {
+        "AlternativeName": "Central Lancashire (University of)",
+        "InstitutionName": "University of Central Lancashire",
+        "PeerGroup": "D",
+        "Region": "North West",
+        "UKPRN": 10007141
+    },
+    {
+        "AlternativeName": "Gloucestershire (University of)",
+        "InstitutionName": "University of Gloucestershire",
+        "PeerGroup": "F",
+        "Region": "South West",
+        "UKPRN": 10007145
+    },
+    {
+        "AlternativeName": "Coventry University",
+        "InstitutionName": "Coventry University",
+        "PeerGroup": "E",
+        "Region": "West Midlands",
+        "UKPRN": 10001726
+    },
+    {
+        "AlternativeName": "Derby (University of)",
+        "InstitutionName": "University of Derby",
+        "PeerGroup": "E",
+        "Region": "East Midlands",
+        "UKPRN": 10007851
+    },
+    {
+        "AlternativeName": "East London (University of)",
+        "InstitutionName": "University of East London",
+        "PeerGroup": "E",
+        "Region": "London",
+        "UKPRN": 10007144
+    },
+    {
+        "AlternativeName": "Greenwich (University of)",
+        "InstitutionName": "University of Greenwich",
+        "PeerGroup": "D",
+        "Region": "London",
+        "UKPRN": 10007146
+    },
+    {
+        "AlternativeName": "Hertfordshire (University of)",
+        "InstitutionName": "University of Hertfordshire",
+        "PeerGroup": "D",
+        "Region": "East",
+        "UKPRN": 10007147
+    },
+    {
+        "AlternativeName": "Huddersfield (University of)",
+        "InstitutionName": "University of Huddersfield",
+        "PeerGroup": "D",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10007148
+    },
+    {
+        "AlternativeName": "Lincoln (University of)",
+        "InstitutionName": "University of Lincoln",
+        "PeerGroup": "D",
+        "Region": "East Midlands",
+        "UKPRN": 10007151
+    },
+    {
+        "AlternativeName": "Kingston University",
+        "InstitutionName": "Kingston University",
+        "PeerGroup": "D",
+        "Region": "London",
+        "UKPRN": 10003678
+    },
+    {
+        "AlternativeName": "Leeds Metropolitan University",
+        "InstitutionName": "Leeds Metropolitan University",
+        "PeerGroup": "D",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10003861
+    },
+    {
+        "AlternativeName": "Liverpool John Moores University",
+        "InstitutionName": "Liverpool John Moores University",
+        "PeerGroup": "C",
+        "Region": "North West",
+        "UKPRN": 10003957
+    },
+    {
+        "AlternativeName": "Manchester Metropolitan University",
+        "InstitutionName": "Manchester Metropolitan University",
+        "PeerGroup": "D",
+        "Region": "North West",
+        "UKPRN": 10004180
+    },
+    {
+        "AlternativeName": "Middlesex University",
+        "InstitutionName": "Middlesex University",
+        "PeerGroup": "D",
+        "Region": "London",
+        "UKPRN": 10004351
+    },
+    {
+        "AlternativeName": "De Montfort University",
+        "InstitutionName": "De Montfort University",
+        "PeerGroup": "C",
+        "Region": "East Midlands",
+        "UKPRN": 10001883
+    },
+    {
+        "AlternativeName": "Northumbria at Newcastle (University of)",
+        "InstitutionName": "Northumbria University Newcastle",
+        "PeerGroup": "D",
+        "Region": "North East",
+        "UKPRN": 10001282
+    },
+    {
+        "AlternativeName": "Nottingham Trent University",
+        "InstitutionName": "Nottingham Trent University",
+        "PeerGroup": "D",
+        "Region": "East Midlands",
+        "UKPRN": 10004797
+    },
+    {
+        "AlternativeName": "Oxford Brookes University",
+        "InstitutionName": "Oxford Brookes University",
+        "PeerGroup": "D",
+        "Region": "South East",
+        "UKPRN": 10004930
+    },
+    {
+        "AlternativeName": "Plymouth (University of)",
+        "InstitutionName": "Plymouth University",
+        "PeerGroup": "C",
+        "Region": "South West",
+        "UKPRN": 10007801
+    },
+    {
+        "AlternativeName": "Portsmouth (University of)",
+        "InstitutionName": "University of Portsmouth",
+        "PeerGroup": "D",
+        "Region": "South East",
+        "UKPRN": 10007155
+    },
+    {
+        "AlternativeName": "Sheffield Hallam University",
+        "InstitutionName": "Sheffield Hallam University",
+        "PeerGroup": "D",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10005790
+    },
+    {
+        "AlternativeName": "London South Bank University",
+        "InstitutionName": "London South Bank University",
+        "PeerGroup": "D",
+        "Region": "London",
+        "UKPRN": 10004078
+    },
+    {
+        "AlternativeName": "Staffordshire University",
+        "InstitutionName": "Staffordshire University",
+        "PeerGroup": "E",
+        "Region": "West Midlands",
+        "UKPRN": 10006299
+    },
+    {
+        "AlternativeName": "Sunderland (University of)",
+        "InstitutionName": "University of Sunderland",
+        "PeerGroup": "E",
+        "Region": "North East",
+        "UKPRN": 10007159
+    },
+    {
+        "AlternativeName": "Teesside University",
+        "InstitutionName": "Teesside University",
+        "PeerGroup": "E",
+        "Region": "North East",
+        "UKPRN": 10007161
+    },
+    {
+        "AlternativeName": "West London (University of)",
+        "InstitutionName": "University of West London",
+        "PeerGroup": "E",
+        "Region": "London",
+        "UKPRN": 10006566
+    },
+    {
+        "AlternativeName": "West of England, Bristol (University of the)",
+        "InstitutionName": "University of the West of England, Bristol",
+        "PeerGroup": "D",
+        "Region": "South West",
+        "UKPRN": 10007164
+    },
+    {
+        "AlternativeName": "Chichester (University of)",
+        "InstitutionName": "University of Chichester",
+        "PeerGroup": "F",
+        "Region": "South East",
+        "UKPRN": 10007137
+    },
+    {
+        "AlternativeName": "Westminster (University of)",
+        "InstitutionName": "University of Westminster",
+        "PeerGroup": "D",
+        "Region": "London",
+        "UKPRN": 10007165
+    },
+    {
+        "AlternativeName": "Wolverhampton (University of)",
+        "InstitutionName": "University of Wolverhampton",
+        "PeerGroup": "D",
+        "Region": "West Midlands",
+        "UKPRN": 10007166
+    },
+    {
+        "AlternativeName": "Glyndwr University",
+        "InstitutionName": "Glyndŵr University",
+        "PeerGroup": "G",
+        "Region": "Wales",
+        "UKPRN": 10007833
+    },
+    {
+        "AlternativeName": "Cardiff Metropolitan University",
+        "InstitutionName": "Cardiff Metropolitan University",
+        "PeerGroup": "F",
+        "Region": "Wales",
+        "UKPRN": 10007854
+    },
+    {
+        "AlternativeName": "South Wales (University of)",
+        "InstitutionName": "University of South Wales",
+        "PeerGroup": "D",
+        "Region": "Wales",
+        "UKPRN": 10007793
+    },
+    {
+        "AlternativeName": "Abertay Dundee (University of)",
+        "InstitutionName": "University of Abertay Dundee",
+        "PeerGroup": "C",
+        "Region": "Scotland",
+        "UKPRN": 10007849
+    },
+    {
+        "AlternativeName": "Glasgow School of Art",
+        "InstitutionName": "Glasgow School of Art",
+        "PeerGroup": "G",
+        "Region": "Scotland",
+        "UKPRN": 10002681
+    },
+    {
+        "AlternativeName": "Queen Margaret University Edinburgh",
+        "InstitutionName": "Queen Margaret University Edinburgh",
+        "PeerGroup": "C",
+        "Region": "Scotland",
+        "UKPRN": 10005337
+    },
+    {
+        "AlternativeName": "Royal Conservatoire of Scotland",
+        "InstitutionName": "Royal Conservatoire of Scotland",
+        "PeerGroup": "G",
+        "Region": "Scotland",
+        "UKPRN": 10005561
+    },
+    {
+        "AlternativeName": "Robert Gordon University",
+        "InstitutionName": "Robert Gordon University",
+        "PeerGroup": "D",
+        "Region": "Scotland",
+        "UKPRN": 10005500
+    },
+    {
+        "AlternativeName": "West of Scotland (University of the)",
+        "InstitutionName": "University of the West of Scotland",
+        "PeerGroup": "E",
+        "Region": "Scotland",
+        "UKPRN": 10007800
+    },
+    {
+        "AlternativeName": "Glasgow Caledonian University",
+        "InstitutionName": "Glasgow Caledonian University",
+        "PeerGroup": "D",
+        "Region": "Scotland",
+        "UKPRN": 10007762
+    },
+    {
+        "AlternativeName": "Edinburgh Napier University",
+        "InstitutionName": "Edinburgh Napier University",
+        "PeerGroup": "D",
+        "Region": "Scotland",
+        "UKPRN": 10007772
+    },
+    {
+        "AlternativeName": "Aston University",
+        "InstitutionName": "Aston University",
+        "PeerGroup": "C",
+        "Region": "West Midlands",
+        "UKPRN": 10007759
+    },
+    {
+        "AlternativeName": "Bath (University of)",
+        "InstitutionName": "University of Bath",
+        "PeerGroup": "B",
+        "Region": "South West",
+        "UKPRN": 10007850
+    },
+    {
+        "AlternativeName": "Birmingham (University of)",
+        "InstitutionName": "University of Birmingham",
+        "PeerGroup": "A",
+        "Region": "West Midlands",
+        "UKPRN": 10006840
+    },
+    {
+        "AlternativeName": "Bradford (University of)",
+        "InstitutionName": "University of Bradford",
+        "PeerGroup": "C",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10007785
+    },
+    {
+        "AlternativeName": "Bristol (University of)",
+        "InstitutionName": "University of Bristol",
+        "PeerGroup": "A",
+        "Region": "South West",
+        "UKPRN": 10007786
+    },
+    {
+        "AlternativeName": "Brunel University",
+        "InstitutionName": "Brunel University",
+        "PeerGroup": "C",
+        "Region": "London",
+        "UKPRN": 10000961
+    },
+    {
+        "AlternativeName": "Cambridge (University of)",
+        "InstitutionName": "University of Cambridge",
+        "PeerGroup": "A",
+        "Region": "East",
+        "UKPRN": 10007788
+    },
+    {
+        "AlternativeName": "City University, London",
+        "InstitutionName": "City University, London",
+        "PeerGroup": "C",
+        "Region": "London",
+        "UKPRN": 10001478
+    },
+    {
+        "AlternativeName": "Durham (University of)",
+        "InstitutionName": "University of Durham",
+        "PeerGroup": "B",
+        "Region": "North East",
+        "UKPRN": 10007143
+    },
+    {
+        "AlternativeName": "East Anglia (University of)",
+        "InstitutionName": "University of East Anglia",
+        "PeerGroup": "B",
+        "Region": "East",
+        "UKPRN": 10007789
+    },
+    {
+        "AlternativeName": "Essex (University of)",
+        "InstitutionName": "University of Essex",
+        "PeerGroup": "B",
+        "Region": "East",
+        "UKPRN": 10007791
+    },
+    {
+        "AlternativeName": "Exeter (University of)",
+        "InstitutionName": "University of Exeter",
+        "PeerGroup": "B",
+        "Region": "South West",
+        "UKPRN": 10007792
+    },
+    {
+        "AlternativeName": "Hull (University of)",
+        "InstitutionName": "University of Hull",
+        "PeerGroup": "C",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10007149
+    },
+    {
+        "AlternativeName": "Keele University",
+        "InstitutionName": "Keele University",
+        "PeerGroup": "B",
+        "Region": "West Midlands",
+        "UKPRN": 10007767
+    },
+    {
+        "AlternativeName": "Kent (University of)",
+        "InstitutionName": "University of Kent",
+        "PeerGroup": "B",
+        "Region": "South East",
+        "UKPRN": 10007150
+    },
+    {
+        "AlternativeName": "Lancaster University",
+        "InstitutionName": "Lancaster University",
+        "PeerGroup": "B",
+        "Region": "North West",
+        "UKPRN": 10007768
+    },
+    {
+        "AlternativeName": "Leeds (University of)",
+        "InstitutionName": "University of Leeds",
+        "PeerGroup": "A",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10007795
+    },
+    {
+        "AlternativeName": "Leicester (University of)",
+        "InstitutionName": "University of Leicester",
+        "PeerGroup": "A",
+        "Region": "East Midlands",
+        "UKPRN": 10007796
+    },
+    {
+        "AlternativeName": "Liverpool (University of)",
+        "InstitutionName": "University of Liverpool",
+        "PeerGroup": "A",
+        "Region": "North West",
+        "UKPRN": 10006842
+    },
+    {
+        "AlternativeName": "Birkbeck College",
+        "InstitutionName": "Birkbeck College",
+        "PeerGroup": "B",
+        "Region": "London",
+        "UKPRN": 10007760
+    },
+    {
+        "AlternativeName": "Goldsmiths' College",
+        "InstitutionName": "Goldsmiths' College",
+        "PeerGroup": "B",
+        "Region": "London",
+        "UKPRN": 10002718
+    },
+    {
+        "AlternativeName": "Imperial College London",
+        "InstitutionName": "Imperial College London",
+        "PeerGroup": "A",
+        "Region": "London",
+        "UKPRN": 10003270
+    },
+    {
+        "AlternativeName": "Institute of Education",
+        "InstitutionName": "Institute of Education",
+        "PeerGroup": "B",
+        "Region": "London",
+        "UKPRN": 10007766
+    },
+    {
+        "AlternativeName": "King's College London",
+        "InstitutionName": "King's College London",
+        "PeerGroup": "A",
+        "Region": "London",
+        "UKPRN": 10003645
+    },
+    {
+        "AlternativeName": "London Business School",
+        "InstitutionName": "London Business School",
+        "PeerGroup": "C",
+        "Region": "London",
+        "UKPRN": 10007769
+    },
+    {
+        "AlternativeName": "London School of Economics and Political Science",
+        "InstitutionName": "London School of Economics & Political Science",
+        "PeerGroup": "C",
+        "Region": "London",
+        "UKPRN": 10004063
+    },
+    {
+        "AlternativeName": "London School of Hygiene & Tropical Medicine",
+        "InstitutionName": "London School of Hygiene & Tropical Medicine",
+        "PeerGroup": "A",
+        "Region": "London",
+        "UKPRN": 10007771
+    },
+    {
+        "AlternativeName": "Queen Mary, University of London",
+        "InstitutionName": "Queen Mary, University of London",
+        "PeerGroup": "A",
+        "Region": "London",
+        "UKPRN": 10007775
+    },
+    {
+        "AlternativeName": "Royal Holloway, University of London",
+        "InstitutionName": "Royal Holloway, University of London",
+        "PeerGroup": "B",
+        "Region": "London",
+        "UKPRN": 10005553
+    },
+    {
+        "AlternativeName": "Royal Veterinary College",
+        "InstitutionName": "Royal Veterinary College",
+        "PeerGroup": "C",
+        "Region": "London",
+        "UKPRN": 10007779
+    },
+    {
+        "AlternativeName": "St George's Hospital Medical School",
+        "InstitutionName": "St George's, University of London",
+        "PeerGroup": "A",
+        "Region": "London",
+        "UKPRN": 10007782
+    },
+    {
+        "AlternativeName": "School of Oriental and African Studies",
+        "InstitutionName": "School of Oriental & African Studies",
+        "PeerGroup": "C",
+        "Region": "London",
+        "UKPRN": 10007780
+    },
+    {
+        "AlternativeName": "University College London",
+        "InstitutionName": "University College London",
+        "PeerGroup": "A",
+        "Region": "London",
+        "UKPRN": 10007784
+    },
+    {
+        "AlternativeName": "University of London Institute in Paris",
+        "InstitutionName": "University of London Institute in Paris",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007797
+    },
+    {
+        "AlternativeName": "Loughborough University",
+        "InstitutionName": "Loughborough University",
+        "PeerGroup": "B",
+        "Region": "East Midlands",
+        "UKPRN": 10004113
+    },
+    {
+        "AlternativeName": "Manchester (University of)",
+        "InstitutionName": "University of Manchester",
+        "PeerGroup": "A",
+        "Region": "North West",
+        "UKPRN": 10007798
+    },
+    {
+        "AlternativeName": "Newcastle upon Tyne (University of)",
+        "InstitutionName": "Newcastle University",
+        "PeerGroup": "A",
+        "Region": "North East",
+        "UKPRN": 10007799
+    },
+    {
+        "AlternativeName": "Nottingham (University of)",
+        "InstitutionName": "University of Nottingham",
+        "PeerGroup": "A",
+        "Region": "East Midlands",
+        "UKPRN": 10007154
+    },
+    {
+        "AlternativeName": "Oxford (University of)",
+        "InstitutionName": "University of Oxford",
+        "PeerGroup": "A",
+        "Region": "South East",
+        "UKPRN": 10007774
+    },
+    {
+        "AlternativeName": "Reading (University of)",
+        "InstitutionName": "University of Reading",
+        "PeerGroup": "B",
+        "Region": "South East",
+        "UKPRN": 10007802
+    },
+    {
+        "AlternativeName": "Salford (University of)",
+        "InstitutionName": "University of Salford",
+        "PeerGroup": "C",
+        "Region": "North West",
+        "UKPRN": 10007156
+    },
+    {
+        "AlternativeName": "Sheffield (University of)",
+        "InstitutionName": "University of Sheffield",
+        "PeerGroup": "A",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10007157
+    },
+    {
+        "AlternativeName": "Southampton (University of)",
+        "InstitutionName": "University of Southampton",
+        "PeerGroup": "A",
+        "Region": "South East",
+        "UKPRN": 10007158
+    },
+    {
+        "AlternativeName": "Surrey (University of)",
+        "InstitutionName": "University of Surrey",
+        "PeerGroup": "B",
+        "Region": "South East",
+        "UKPRN": 10007160
+    },
+    {
+        "AlternativeName": "Sussex (University of)",
+        "InstitutionName": "University of Sussex",
+        "PeerGroup": "B",
+        "Region": "South East",
+        "UKPRN": 10007806
+    },
+    {
+        "AlternativeName": "Warwick (University of)",
+        "InstitutionName": "University of Warwick",
+        "PeerGroup": "A",
+        "Region": "West Midlands",
+        "UKPRN": 10007163
+    },
+    {
+        "AlternativeName": "York (University of)",
+        "InstitutionName": "University of York",
+        "PeerGroup": "B",
+        "Region": "Yorkshire And Humberside",
+        "UKPRN": 10007167
+    },
+    {
+        "AlternativeName": "Edinburgh (University of)",
+        "InstitutionName": "University of Edinburgh",
+        "PeerGroup": "A",
+        "Region": "Scotland",
+        "UKPRN": 10007790
+    },
+    {
+        "AlternativeName": "Glasgow (University of)",
+        "InstitutionName": "University of Glasgow",
+        "PeerGroup": "A",
+        "Region": "Scotland",
+        "UKPRN": 10007794
+    },
+    {
+        "AlternativeName": "Strathclyde (University of)",
+        "InstitutionName": "University of Strathclyde",
+        "PeerGroup": "B",
+        "Region": "Scotland",
+        "UKPRN": 10007805
+    },
+    {
+        "AlternativeName": "Aberdeen (University of)",
+        "InstitutionName": "University of Aberdeen",
+        "PeerGroup": "B",
+        "Region": "Scotland",
+        "UKPRN": 10007783
+    },
+    {
+        "AlternativeName": "Heriot-Watt University",
+        "InstitutionName": "Heriot-Watt University",
+        "PeerGroup": "B",
+        "Region": "Scotland",
+        "UKPRN": 10007764
+    },
+    {
+        "AlternativeName": "Dundee (University of)",
+        "InstitutionName": "University of Dundee",
+        "PeerGroup": "B",
+        "Region": "Scotland",
+        "UKPRN": 10007852
+    },
+    {
+        "AlternativeName": "St Andrews (University of)",
+        "InstitutionName": "University of St Andrews",
+        "PeerGroup": "B",
+        "Region": "Scotland",
+        "UKPRN": 10007803
+    },
+    {
+        "AlternativeName": "Stirling (University of)",
+        "InstitutionName": "University of Stirling",
+        "PeerGroup": "C",
+        "Region": "Scotland",
+        "UKPRN": 10007804
+    },
+    {
+        "AlternativeName": "SRUC",
+        "InstitutionName": "SRUC",
+        "PeerGroup": "C",
+        "Region": "Scotland",
+        "UKPRN": 10005700
+    },
+    {
+        "AlternativeName": "Trinity Saint David (University of Wales)",
+        "InstitutionName": "University of Wales, Trinity Saint David",
+        "PeerGroup": "C",
+        "Region": "Wales",
+        "UKPRN": 10007858
+    },
+    {
+        "AlternativeName": "Aberystwyth University",
+        "InstitutionName": "Aberystwyth University",
+        "PeerGroup": "B",
+        "Region": "Wales",
+        "UKPRN": 10007856
+    },
+    {
+        "AlternativeName": "Bangor University",
+        "InstitutionName": "Bangor University",
+        "PeerGroup": "B",
+        "Region": "Wales",
+        "UKPRN": 10007857
+    },
+    {
+        "AlternativeName": "Cardiff University",
+        "InstitutionName": "Cardiff University",
+        "PeerGroup": "A",
+        "Region": "Wales",
+        "UKPRN": 10007814
+    },
+    {
+        "AlternativeName": "Swansea University",
+        "InstitutionName": "Swansea University",
+        "PeerGroup": "B",
+        "Region": "Wales",
+        "UKPRN": 10007855
+    },
+    {
+        "AlternativeName": "Queen's University Belfast",
+        "InstitutionName": "Queen's University Belfast",
+        "PeerGroup": "A",
+        "Region": "Northern Ireland",
+        "UKPRN": 10005343
+    },
+    {
+        "AlternativeName": "Ulster (University of)",
+        "InstitutionName": "University of Ulster",
+        "PeerGroup": "B",
+        "Region": "Northern Ireland",
+        "UKPRN": 10007807
+    },
+    {
+        "AlternativeName": "Wales (University of)",
+        "InstitutionName": "University of Wales",
+        "PeerGroup": "G",
+        "Region": "Wales",
+        "UKPRN": 10008574
+    },
+    {
+        "AlternativeName": "Writtle College",
+        "InstitutionName": "Writtle College",
+        "PeerGroup": "F",
+        "Region": "East",
+        "UKPRN": 10007657
+    },
+    {
+        "AlternativeName": "Norwich the Arts (University of)",
+        "InstitutionName": "Norwich University of the Arts",
+        "PeerGroup": "G",
+        "Region": "East",
+        "UKPRN": 10004775
+    },
+    {
+        "AlternativeName": "Institute of Cancer Research",
+        "InstitutionName": "Institute of Cancer Research",
+        "PeerGroup": "A",
+        "Region": "London",
+        "UKPRN": 10003324
+    },
+    {
+        "AlternativeName": "Courtauld Institute of Art",
+        "InstitutionName": "Courtauld Institute of Art",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007761
+    },
+    {
+        "AlternativeName": "Bournemouth (Arts University)",
+        "InstitutionName": "Arts University Bournemouth",
+        "PeerGroup": "G",
+        "Region": "South West",
+        "UKPRN": 10000385
+    },
+    {
+        "AlternativeName": "Heythrop College",
+        "InstitutionName": "Heythrop College",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007765
+    },
+    {
+        "AlternativeName": "Institute of Zoology",
+        "InstitutionName": "Institute of Zoology, London",
+        "PeerGroup": "F",
+        "Region": "London",
+        "UKPRN": 10007003
+    },
+    {
+        "AlternativeName": "Royal Agricultural University",
+        "InstitutionName": "Royal Agricultural University",
+        "PeerGroup": "F",
+        "Region": "South West",
+        "UKPRN": 10005545
+    },
+    {
+        "AlternativeName": "Stranmillis University College",
+        "InstitutionName": "Stranmillis University College",
+        "PeerGroup": "G",
+        "Region": "Northern Ireland",
+        "UKPRN": 10008010
+    },
+    {
+        "AlternativeName": "St Mary's University College Belfast, A College of QUB",
+        "InstitutionName": "St Mary's University College, Belfast",
+        "PeerGroup": "G",
+        "Region": "Northern Ireland",
+        "UKPRN": 10008026
+    },
+    {
+        "AlternativeName": "Highlands and Islands (University of the)",
+        "InstitutionName": "University of the Highlands & Islands",
+        "PeerGroup": "F",
+        "Region": "Scotland",
+        "UKPRN": 10007114
+    },
+    {
+        "AlternativeName": "London Metropolitan University",
+        "InstitutionName": "London Metropolitan University",
+        "PeerGroup": "D",
+        "Region": "London",
+        "UKPRN": 10004048
+    },
+    {
+        "AlternativeName": "University for the Creative Arts",
+        "InstitutionName": "University for the Creative Arts",
+        "PeerGroup": "G",
+        "Region": "South East",
+        "UKPRN": 10006427
+    },
+    {
+        "AlternativeName": "Guildhall School of Music & Drama",
+        "InstitutionName": "Guildhall School of Music & Drama",
+        "PeerGroup": "G",
+        "Region": "London",
+        "UKPRN": 10007825
+    },
+    {
+        "AlternativeName": "Liverpool School of Tropical Medicine",
+        "InstitutionName": "Liverpool School of Tropical Medicine",
+        "PeerGroup": "G",
+        "Region": "North West",
+        "UKPRN": 10003958
+    }
+]

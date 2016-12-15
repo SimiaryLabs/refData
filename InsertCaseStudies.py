@@ -31,21 +31,24 @@ def case_study_insert_request(caseStudy, corpus_id, api_key):
     payload['title'] = caseStudy["Title"]
     payload['properties']['CaseStudyId'] = caseStudy["CaseStudyId"]
 
+    payload['properties']['Funders'] = caseStudy["Funders"] # funders.json
+
+    payload['properties']['Panel'] = caseStudy["Panel"] # UnitOfAssessment.json (panel field)
+    payload['properties']['UOA'] = caseStudy["UOA"] # UnitOfAssessment.json (subject field)
+
+    payload['properties']['ResearchSubjectAreas'] = caseStudy["ResearchSubjectAreas"] # subjects.json
+
+    payload['properties']['ImpactType'] = caseStudy["ImpactType"] # ImpactType.json
+    payload['properties']['Institution'] = caseStudy["Institution"] # institutions.json
+
+    payload['properties']['References'] = caseStudy["References"]
+    payload['properties']['Sources'] = caseStudy["Sources"]
+
     payload['properties']['Continent'] = caseStudy["Continent"]
     payload['properties']['Country'] = caseStudy["Country"]
     payload['properties']['PlaceName'] = caseStudy["PlaceName"]
     payload['properties']['UKLocation'] = caseStudy["UKLocation"]
     payload['properties']['UKRegion'] = caseStudy["UKRegion"]
-
-    payload['properties']['Funders'] = caseStudy["Funders"]
-    payload['properties']['Panel'] = caseStudy["Panel"]
-    payload['properties']['ResearchSubjectAreas'] = caseStudy["ResearchSubjectAreas"]
-    payload['properties']['UOA'] = caseStudy["UOA"]
-    payload['properties']['ImpactType'] = caseStudy["ImpactType"]
-    payload['properties']['Institution'] = caseStudy["Institution"]
-
-    payload['properties']['References'] = caseStudy["References"]
-    payload['properties']['Sources'] = caseStudy["Sources"]
 
 
     ##

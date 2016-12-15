@@ -1,0 +1,1254 @@
+[
+    {
+        "ID": 911,
+        "Name": "Accounting, Auditing and Accountability"
+    },
+    {
+        "ID": 1022,
+        "Name": "Aerospace Engineering"
+    },
+    {
+        "ID": 855,
+        "Name": "Aerospace Engineering"
+    },
+    {
+        "ID": 1013,
+        "Name": "Aerospace Transport"
+    },
+    {
+        "ID": 766,
+        "Name": "Agricultural and Veterinary Sciences"
+    },
+    {
+        "ID": 871,
+        "Name": "Agricultural Biotechnology"
+    },
+    {
+        "ID": 991,
+        "Name": "Agricultural Chemicals"
+    },
+    {
+        "ID": 839,
+        "Name": "Agriculture, Land and Farm Management"
+    },
+    {
+        "ID": 1058,
+        "Name": "Air Quality"
+    },
+    {
+        "ID": 811,
+        "Name": "Analytical Chemistry"
+    },
+    {
+        "ID": 840,
+        "Name": "Animal Production"
+    },
+    {
+        "ID": 784,
+        "Name": "Animal Production And Animal Primary Products"
+    },
+    {
+        "ID": 919,
+        "Name": "Anthropology"
+    },
+    {
+        "ID": 908,
+        "Name": "Applied Economics"
+    },
+    {
+        "ID": 950,
+        "Name": "Applied Ethics"
+    },
+    {
+        "ID": 799,
+        "Name": "Applied Mathematics"
+    },
+    {
+        "ID": 946,
+        "Name": "Archaeology"
+    },
+    {
+        "ID": 897,
+        "Name": "Architecture"
+    },
+    {
+        "ID": 934,
+        "Name": "Art Theory and Criticism"
+    },
+    {
+        "ID": 847,
+        "Name": "Artificial Intelligence and Image Processing"
+    },
+    {
+        "ID": 1052,
+        "Name": "Arts And Leisure"
+    },
+    {
+        "ID": 804,
+        "Name": "Astronomical and Space Sciences"
+    },
+    {
+        "ID": 1059,
+        "Name": "Atmosphere And Weather"
+    },
+    {
+        "ID": 819,
+        "Name": "Atmospheric Sciences"
+    },
+    {
+        "ID": 805,
+        "Name": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+    },
+    {
+        "ID": 856,
+        "Name": "Automotive Engineering"
+    },
+    {
+        "ID": 1023,
+        "Name": "Automotive Engineering"
+    },
+    {
+        "ID": 912,
+        "Name": "Banking, Finance and Investment"
+    },
+    {
+        "ID": 995,
+        "Name": "Basic Metal Products (Incl. Smelting, Rolling, Drawing And Extruding)"
+    },
+    {
+        "ID": 830,
+        "Name": "Biochemistry and Cell Biology"
+    },
+    {
+        "ID": 765,
+        "Name": "Biological Sciences"
+    },
+    {
+        "ID": 857,
+        "Name": "Biomedical Engineering"
+    },
+    {
+        "ID": 1024,
+        "Name": "Biomedical Engineering"
+    },
+    {
+        "ID": 898,
+        "Name": "Building"
+    },
+    {
+        "ID": 1008,
+        "Name": "Building Management And Services"
+    },
+    {
+        "ID": 771,
+        "Name": "Built Environment and Design"
+    },
+    {
+        "ID": 913,
+        "Name": "Business and Management"
+    },
+    {
+        "ID": 880,
+        "Name": "Cardiorespiratory Medicine and Haematology"
+    },
+    {
+        "ID": 994,
+        "Name": "Ceramics, Glass And Industrial Mineral Products"
+    },
+    {
+        "ID": 1025,
+        "Name": "Chemical Engineering"
+    },
+    {
+        "ID": 858,
+        "Name": "Chemical Engineering"
+    },
+    {
+        "ID": 762,
+        "Name": "Chemical Sciences"
+    },
+    {
+        "ID": 859,
+        "Name": "Civil Engineering"
+    },
+    {
+        "ID": 806,
+        "Name": "Classical Physics"
+    },
+    {
+        "ID": 1060,
+        "Name": "Climate And Climate Change"
+    },
+    {
+        "ID": 1034,
+        "Name": "Clinical Health (Organs, Diseases And Abnormal Conditions)"
+    },
+    {
+        "ID": 881,
+        "Name": "Clinical Sciences"
+    },
+    {
+        "ID": 929,
+        "Name": "Cognitive Sciences"
+    },
+    {
+        "ID": 774,
+        "Name": "Commerce, Management, Tourism and Services"
+    },
+    {
+        "ID": 914,
+        "Name": "Commercial Services"
+    },
+    {
+        "ID": 791,
+        "Name": "Commercial Services And Tourism"
+    },
+    {
+        "ID": 1053,
+        "Name": "Communication"
+    },
+    {
+        "ID": 940,
+        "Name": "Communication and Media Studies"
+    },
+    {
+        "ID": 1001,
+        "Name": "Communication Equipment"
+    },
+    {
+        "ID": 1016,
+        "Name": "Communication Networks And Services"
+    },
+    {
+        "ID": 875,
+        "Name": "Communications Technologies"
+    },
+    {
+        "ID": 1046,
+        "Name": "Community Service (Excl. Work)"
+    },
+    {
+        "ID": 882,
+        "Name": "Complementary and Alternative Medicine"
+    },
+    {
+        "ID": 848,
+        "Name": "Computation Theory and Mathematics"
+    },
+    {
+        "ID": 876,
+        "Name": "Computer Hardware"
+    },
+    {
+        "ID": 1000,
+        "Name": "Computer Hardware And Electronic Equipment"
+    },
+    {
+        "ID": 849,
+        "Name": "Computer Software"
+    },
+    {
+        "ID": 1017,
+        "Name": "Computer Software And Services"
+    },
+    {
+        "ID": 807,
+        "Name": "Condensed Matter Physics"
+    },
+    {
+        "ID": 788,
+        "Name": "Construction"
+    },
+    {
+        "ID": 1005,
+        "Name": "Construction Design"
+    },
+    {
+        "ID": 1006,
+        "Name": "Construction Materials Performance And Processes"
+    },
+    {
+        "ID": 1004,
+        "Name": "Construction Planning"
+    },
+    {
+        "ID": 1007,
+        "Name": "Construction Processes"
+    },
+    {
+        "ID": 1061,
+        "Name": "Control Of Pests, Diseases And Exotic Species"
+    },
+    {
+        "ID": 920,
+        "Name": "Criminology"
+    },
+    {
+        "ID": 841,
+        "Name": "Crop and Pasture Production"
+    },
+    {
+        "ID": 941,
+        "Name": "Cultural Studies"
+    },
+    {
+        "ID": 796,
+        "Name": "Cultural Understanding"
+    },
+    {
+        "ID": 947,
+        "Name": "Curatorial and Related Studies"
+    },
+    {
+        "ID": 1042,
+        "Name": "Curriculum"
+    },
+    {
+        "ID": 904,
+        "Name": "Curriculum and Pedagogy"
+    },
+    {
+        "ID": 986,
+        "Name": "Dairy Products"
+    },
+    {
+        "ID": 850,
+        "Name": "Data Format"
+    },
+    {
+        "ID": 782,
+        "Name": "Defence"
+    },
+    {
+        "ID": 955,
+        "Name": "Defence"
+    },
+    {
+        "ID": 921,
+        "Name": "Demography"
+    },
+    {
+        "ID": 883,
+        "Name": "Dentistry"
+    },
+    {
+        "ID": 899,
+        "Name": "Design Practice and Management"
+    },
+    {
+        "ID": 851,
+        "Name": "Distributed Computing"
+    },
+    {
+        "ID": 763,
+        "Name": "Earth Sciences"
+    },
+    {
+        "ID": 826,
+        "Name": "Ecological Applications"
+    },
+    {
+        "ID": 831,
+        "Name": "Ecology"
+    },
+    {
+        "ID": 909,
+        "Name": "Econometrics"
+    },
+    {
+        "ID": 792,
+        "Name": "Economic Framework"
+    },
+    {
+        "ID": 907,
+        "Name": "Economic Theory"
+    },
+    {
+        "ID": 773,
+        "Name": "Economics"
+    },
+    {
+        "ID": 1062,
+        "Name": "Ecosystem Assessment And Management"
+    },
+    {
+        "ID": 772,
+        "Name": "Education"
+    },
+    {
+        "ID": 794,
+        "Name": "Education And Training"
+    },
+    {
+        "ID": 1044,
+        "Name": "Education And Training Systems"
+    },
+    {
+        "ID": 903,
+        "Name": "Education Systems"
+    },
+    {
+        "ID": 860,
+        "Name": "Electrical and Electronic Engineering"
+    },
+    {
+        "ID": 786,
+        "Name": "Energy"
+    },
+    {
+        "ID": 982,
+        "Name": "Energy Conservation And Efficiency"
+    },
+    {
+        "ID": 976,
+        "Name": "Energy Exploration"
+    },
+    {
+        "ID": 981,
+        "Name": "Energy Storage, Distribution And Supply"
+    },
+    {
+        "ID": 979,
+        "Name": "Energy Transformation"
+    },
+    {
+        "ID": 768,
+        "Name": "Engineering"
+    },
+    {
+        "ID": 900,
+        "Name": "Engineering Design"
+    },
+    {
+        "ID": 797,
+        "Name": "Environment"
+    },
+    {
+        "ID": 1063,
+        "Name": "Environmental And Natural Resource Evaluation"
+    },
+    {
+        "ID": 872,
+        "Name": "Environmental Biotechnology"
+    },
+    {
+        "ID": 861,
+        "Name": "Environmental Engineering"
+    },
+    {
+        "ID": 1064,
+        "Name": "Environmental Policy, Legislation And Standards"
+    },
+    {
+        "ID": 827,
+        "Name": "Environmental Science and Management"
+    },
+    {
+        "ID": 764,
+        "Name": "Environmental Sciences"
+    },
+    {
+        "ID": 969,
+        "Name": "Environmentally Sustainable Animal Production"
+    },
+    {
+        "ID": 1026,
+        "Name": "Environmentally Sustainable Commercial Services And Tourism"
+    },
+    {
+        "ID": 1009,
+        "Name": "Environmentally Sustainable Construction"
+    },
+    {
+        "ID": 983,
+        "Name": "Environmentally Sustainable Energy Activities"
+    },
+    {
+        "ID": 1020,
+        "Name": "Environmentally Sustainable Information And Communication Services"
+    },
+    {
+        "ID": 1002,
+        "Name": "Environmentally Sustainable Manufacturing"
+    },
+    {
+        "ID": 974,
+        "Name": "Environmentally Sustainable Mineral Resource Activities"
+    },
+    {
+        "ID": 962,
+        "Name": "Environmentally Sustainable Plant Production"
+    },
+    {
+        "ID": 1014,
+        "Name": "Environmentally Sustainable Transport"
+    },
+    {
+        "ID": 832,
+        "Name": "Evolutionary Biology"
+    },
+    {
+        "ID": 996,
+        "Name": "Fabricated Metal Products"
+    },
+    {
+        "ID": 935,
+        "Name": "Film, Television and Digital Media"
+    },
+    {
+        "ID": 973,
+        "Name": "First Stage Treatment Of Ores And Minerals"
+    },
+    {
+        "ID": 964,
+        "Name": "Fisheries - Aquaculture"
+    },
+    {
+        "ID": 965,
+        "Name": "Fisheries - Wild Caught"
+    },
+    {
+        "ID": 842,
+        "Name": "Fisheries Sciences"
+    },
+    {
+        "ID": 1065,
+        "Name": "Flora, Fauna And Biodiversity"
+    },
+    {
+        "ID": 862,
+        "Name": "Food Sciences"
+    },
+    {
+        "ID": 956,
+        "Name": "Forestry"
+    },
+    {
+        "ID": 843,
+        "Name": "Forestry Sciences"
+    },
+    {
+        "ID": 833,
+        "Name": "Genetics"
+    },
+    {
+        "ID": 820,
+        "Name": "Geochemistry"
+    },
+    {
+        "ID": 821,
+        "Name": "Geology"
+    },
+    {
+        "ID": 863,
+        "Name": "Geomatic Engineering"
+    },
+    {
+        "ID": 822,
+        "Name": "Geophysics"
+    },
+    {
+        "ID": 1047,
+        "Name": "Government And Politics"
+    },
+    {
+        "ID": 1011,
+        "Name": "Ground Transport"
+    },
+    {
+        "ID": 961,
+        "Name": "Harvesting And Packing Of Plant Products"
+    },
+    {
+        "ID": 793,
+        "Name": "Health"
+    },
+    {
+        "ID": 1035,
+        "Name": "Health And Support Services"
+    },
+    {
+        "ID": 1054,
+        "Name": "Heritage"
+    },
+    {
+        "ID": 948,
+        "Name": "Historical Studies"
+    },
+    {
+        "ID": 780,
+        "Name": "History and Archaeology"
+    },
+    {
+        "ID": 951,
+        "Name": "History and Philosophy of Specific Fields"
+    },
+    {
+        "ID": 957,
+        "Name": "Horticultural Crops"
+    },
+    {
+        "ID": 844,
+        "Name": "Horticultural Production"
+    },
+    {
+        "ID": 922,
+        "Name": "Human Geography"
+    },
+    {
+        "ID": 884,
+        "Name": "Human Movement and Sports Science"
+    },
+    {
+        "ID": 992,
+        "Name": "Human Pharmaceutical Products"
+    },
+    {
+        "ID": 885,
+        "Name": "Immunology"
+    },
+    {
+        "ID": 1036,
+        "Name": "Indigenous Health"
+    },
+    {
+        "ID": 873,
+        "Name": "Industrial Biotechnology"
+    },
+    {
+        "ID": 990,
+        "Name": "Industrial Chemicals And Related Products"
+    },
+    {
+        "ID": 958,
+        "Name": "Industrial Crops"
+    },
+    {
+        "ID": 790,
+        "Name": "Information And Communication Services"
+    },
+    {
+        "ID": 767,
+        "Name": "Information and Computing Sciences"
+    },
+    {
+        "ID": 1018,
+        "Name": "Information Services"
+    },
+    {
+        "ID": 852,
+        "Name": "Information Systems"
+    },
+    {
+        "ID": 812,
+        "Name": "Inorganic Chemistry"
+    },
+    {
+        "ID": 999,
+        "Name": "Instrumentation"
+    },
+    {
+        "ID": 1032,
+        "Name": "Interdisciplinary Engineering"
+    },
+    {
+        "ID": 869,
+        "Name": "Interdisciplinary Engineering"
+    },
+    {
+        "ID": 1048,
+        "Name": "International Relations"
+    },
+    {
+        "ID": 936,
+        "Name": "Journalism and Professional Writing"
+    },
+    {
+        "ID": 1049,
+        "Name": "Justice And The Law"
+    },
+    {
+        "ID": 1066,
+        "Name": "Land And Water Management"
+    },
+    {
+        "ID": 942,
+        "Name": "Language Studies"
+    },
+    {
+        "ID": 779,
+        "Name": "Language, Communication and Culture"
+    },
+    {
+        "ID": 931,
+        "Name": "Law"
+    },
+    {
+        "ID": 777,
+        "Name": "Law and Legal Studies"
+    },
+    {
+        "ID": 795,
+        "Name": "Law, Politics And Community Services"
+    },
+    {
+        "ID": 1040,
+        "Name": "Learner And Learning"
+    },
+    {
+        "ID": 988,
+        "Name": "Leather Products, Fibre Processing And Textiles"
+    },
+    {
+        "ID": 853,
+        "Name": "Library and Information Studies"
+    },
+    {
+        "ID": 943,
+        "Name": "Linguistics"
+    },
+    {
+        "ID": 944,
+        "Name": "Literary Studies"
+    },
+    {
+        "ID": 966,
+        "Name": "Livestock Raising"
+    },
+    {
+        "ID": 998,
+        "Name": "Machinery And Equipment"
+    },
+    {
+        "ID": 813,
+        "Name": "Macromolecular and Materials Chemistry"
+    },
+    {
+        "ID": 787,
+        "Name": "Manufacturing"
+    },
+    {
+        "ID": 864,
+        "Name": "Manufacturing Engineering"
+    },
+    {
+        "ID": 932,
+        "Name": "Maori Law"
+    },
+    {
+        "ID": 1028,
+        "Name": "Maritime Engineering"
+    },
+    {
+        "ID": 865,
+        "Name": "Maritime Engineering"
+    },
+    {
+        "ID": 915,
+        "Name": "Marketing"
+    },
+    {
+        "ID": 1029,
+        "Name": "Materials Engineering"
+    },
+    {
+        "ID": 866,
+        "Name": "Materials Engineering"
+    },
+    {
+        "ID": 802,
+        "Name": "Mathematical Physics"
+    },
+    {
+        "ID": 760,
+        "Name": "Mathematical Sciences"
+    },
+    {
+        "ID": 867,
+        "Name": "Mechanical Engineering"
+    },
+    {
+        "ID": 1030,
+        "Name": "Mechanical Engineering"
+    },
+    {
+        "ID": 1019,
+        "Name": "Media Services"
+    },
+    {
+        "ID": 770,
+        "Name": "Medical and Health Sciences"
+    },
+    {
+        "ID": 879,
+        "Name": "Medical Biochemistry and Metabolomics"
+    },
+    {
+        "ID": 874,
+        "Name": "Medical Biotechnology"
+    },
+    {
+        "ID": 886,
+        "Name": "Medical Microbiology"
+    },
+    {
+        "ID": 894,
+        "Name": "Medical Physiology"
+    },
+    {
+        "ID": 814,
+        "Name": "Medicinal and Biomolecular Chemistry"
+    },
+    {
+        "ID": 834,
+        "Name": "Microbiology"
+    },
+    {
+        "ID": 971,
+        "Name": "Mineral Exploration"
+    },
+    {
+        "ID": 785,
+        "Name": "Mineral Resources (Excl. Energy Resources)"
+    },
+    {
+        "ID": 977,
+        "Name": "Mining And Extraction Of Energy Resources"
+    },
+    {
+        "ID": 877,
+        "Name": "Nanotechnology"
+    },
+    {
+        "ID": 1067,
+        "Name": "Natural Hazards"
+    },
+    {
+        "ID": 887,
+        "Name": "Neurosciences"
+    },
+    {
+        "ID": 800,
+        "Name": "Numerical and Computational Mathematics"
+    },
+    {
+        "ID": 888,
+        "Name": "Nursing"
+    },
+    {
+        "ID": 889,
+        "Name": "Nutrition and Dietetics"
+    },
+    {
+        "ID": 823,
+        "Name": "Oceanography"
+    },
+    {
+        "ID": 890,
+        "Name": "Oncology and Carcinogenesis"
+    },
+    {
+        "ID": 891,
+        "Name": "Ophthalmology and Optometry"
+    },
+    {
+        "ID": 808,
+        "Name": "Optical Physics"
+    },
+    {
+        "ID": 815,
+        "Name": "Organic Chemistry"
+    },
+    {
+        "ID": 846,
+        "Name": "Other Agricultural and Veterinary Sciences"
+    },
+    {
+        "ID": 970,
+        "Name": "Other Animal Production And Animal Primary Products"
+    },
+    {
+        "ID": 838,
+        "Name": "Other Biological Sciences"
+    },
+    {
+        "ID": 902,
+        "Name": "Other Built Environment and Design"
+    },
+    {
+        "ID": 818,
+        "Name": "Other Chemical Sciences"
+    },
+    {
+        "ID": 918,
+        "Name": "Other Commerce, Management, Tourism and Services"
+    },
+    {
+        "ID": 1027,
+        "Name": "Other Commercial Services And Tourism"
+    },
+    {
+        "ID": 1010,
+        "Name": "Other Construction"
+    },
+    {
+        "ID": 1057,
+        "Name": "Other Cultural Understanding"
+    },
+    {
+        "ID": 825,
+        "Name": "Other Earth Sciences"
+    },
+    {
+        "ID": 1033,
+        "Name": "Other Economic Framework"
+    },
+    {
+        "ID": 910,
+        "Name": "Other Economics"
+    },
+    {
+        "ID": 906,
+        "Name": "Other Education"
+    },
+    {
+        "ID": 1045,
+        "Name": "Other Education And Training"
+    },
+    {
+        "ID": 984,
+        "Name": "Other Energy"
+    },
+    {
+        "ID": 870,
+        "Name": "Other Engineering"
+    },
+    {
+        "ID": 1072,
+        "Name": "Other Environment"
+    },
+    {
+        "ID": 829,
+        "Name": "Other Environmental Sciences"
+    },
+    {
+        "ID": 1039,
+        "Name": "Other Health"
+    },
+    {
+        "ID": 949,
+        "Name": "Other History and Archaeology"
+    },
+    {
+        "ID": 1021,
+        "Name": "Other Information And Communication Services"
+    },
+    {
+        "ID": 854,
+        "Name": "Other Information and Computing Sciences"
+    },
+    {
+        "ID": 945,
+        "Name": "Other Language, Communication and Culture"
+    },
+    {
+        "ID": 933,
+        "Name": "Other Law and Legal Studies"
+    },
+    {
+        "ID": 1051,
+        "Name": "Other Law, Politics And Community Services"
+    },
+    {
+        "ID": 1003,
+        "Name": "Other Manufacturing"
+    },
+    {
+        "ID": 803,
+        "Name": "Other Mathematical Sciences"
+    },
+    {
+        "ID": 896,
+        "Name": "Other Medical and Health Sciences"
+    },
+    {
+        "ID": 975,
+        "Name": "Other Mineral Resources (Excl. Energy Resources)"
+    },
+    {
+        "ID": 954,
+        "Name": "Other Philosophy and Religious Studies"
+    },
+    {
+        "ID": 810,
+        "Name": "Other Physical Sciences"
+    },
+    {
+        "ID": 963,
+        "Name": "Other Plant Production And Plant Primary Products"
+    },
+    {
+        "ID": 930,
+        "Name": "Other Psychology and Cognitive Sciences"
+    },
+    {
+        "ID": 939,
+        "Name": "Other Studies In Creative Arts and Writing"
+    },
+    {
+        "ID": 927,
+        "Name": "Other Studies In Human Society"
+    },
+    {
+        "ID": 878,
+        "Name": "Other Technology"
+    },
+    {
+        "ID": 1015,
+        "Name": "Other Transport"
+    },
+    {
+        "ID": 892,
+        "Name": "Paediatrics and Reproductive Medicine"
+    },
+    {
+        "ID": 967,
+        "Name": "Pasture, Browse And Fodder Crops"
+    },
+    {
+        "ID": 937,
+        "Name": "Performing Arts and Creative Writing"
+    },
+    {
+        "ID": 893,
+        "Name": "Pharmacology and Pharmaceutical Sciences"
+    },
+    {
+        "ID": 952,
+        "Name": "Philosophy"
+    },
+    {
+        "ID": 781,
+        "Name": "Philosophy and Religious Studies"
+    },
+    {
+        "ID": 1068,
+        "Name": "Physical And Chemical Conditions Of Water"
+    },
+    {
+        "ID": 816,
+        "Name": "Physical Chemistry (incl. Structural)"
+    },
+    {
+        "ID": 824,
+        "Name": "Physical Geography and Environmental Geoscience"
+    },
+    {
+        "ID": 761,
+        "Name": "Physical Sciences"
+    },
+    {
+        "ID": 835,
+        "Name": "Physiology"
+    },
+    {
+        "ID": 836,
+        "Name": "Plant Biology"
+    },
+    {
+        "ID": 783,
+        "Name": "Plant Production And Plant Primary Products"
+    },
+    {
+        "ID": 923,
+        "Name": "Policy and Administration"
+    },
+    {
+        "ID": 924,
+        "Name": "Political Science"
+    },
+    {
+        "ID": 978,
+        "Name": "Preparation And Production Of Energy Sources"
+    },
+    {
+        "ID": 968,
+        "Name": "Primary Animal Products"
+    },
+    {
+        "ID": 972,
+        "Name": "Primary Mining And Extraction Of Mineral Resources"
+    },
+    {
+        "ID": 985,
+        "Name": "Processed Food Products And Beverages (Excl. Dairy Products)"
+    },
+    {
+        "ID": 987,
+        "Name": "Processed Non-Food Agriculture Products (Excl. Wood, Paper And Fibre)"
+    },
+    {
+        "ID": 928,
+        "Name": "Psychology"
+    },
+    {
+        "ID": 776,
+        "Name": "Psychology and Cognitive Sciences"
+    },
+    {
+        "ID": 1037,
+        "Name": "Public Health (Excl. Specific Population Health)"
+    },
+    {
+        "ID": 895,
+        "Name": "Public Health and Health Services"
+    },
+    {
+        "ID": 798,
+        "Name": "Pure Mathematics"
+    },
+    {
+        "ID": 809,
+        "Name": "Quantum Physics"
+    },
+    {
+        "ID": 1069,
+        "Name": "Rehabilitation Of Degraded Environments"
+    },
+    {
+        "ID": 1055,
+        "Name": "Religion And Ethics"
+    },
+    {
+        "ID": 953,
+        "Name": "Religion and Religious Studies"
+    },
+    {
+        "ID": 1070,
+        "Name": "Remnant Vegetation And Protected Conservation Areas"
+    },
+    {
+        "ID": 980,
+        "Name": "Renewable Energy"
+    },
+    {
+        "ID": 1031,
+        "Name": "Resources Engineering and Extractive Metallurgy"
+    },
+    {
+        "ID": 868,
+        "Name": "Resources Engineering and Extractive Metallurgy"
+    },
+    {
+        "ID": 1043,
+        "Name": "School/Institution"
+    },
+    {
+        "ID": 925,
+        "Name": "Social Work"
+    },
+    {
+        "ID": 926,
+        "Name": "Sociology"
+    },
+    {
+        "ID": 828,
+        "Name": "Soil Sciences"
+    },
+    {
+        "ID": 1071,
+        "Name": "Soils"
+    },
+    {
+        "ID": 905,
+        "Name": "Specialist Studies In Education"
+    },
+    {
+        "ID": 1038,
+        "Name": "Specific Population Health (Excl. Indigenous Health)"
+    },
+    {
+        "ID": 801,
+        "Name": "Statistics"
+    },
+    {
+        "ID": 778,
+        "Name": "Studies In Creative Arts and Writing"
+    },
+    {
+        "ID": 775,
+        "Name": "Studies In Human Society"
+    },
+    {
+        "ID": 959,
+        "Name": "Summer Grains And Oilseeds"
+    },
+    {
+        "ID": 1041,
+        "Name": "Teaching And Instruction"
+    },
+    {
+        "ID": 769,
+        "Name": "Technology"
+    },
+    {
+        "ID": 817,
+        "Name": "Theoretical and Computational Chemistry"
+    },
+    {
+        "ID": 916,
+        "Name": "Tourism"
+    },
+    {
+        "ID": 789,
+        "Name": "Transport"
+    },
+    {
+        "ID": 997,
+        "Name": "Transport Equipment"
+    },
+    {
+        "ID": 917,
+        "Name": "Transportation and Freight Services"
+    },
+    {
+        "ID": 1056,
+        "Name": "Understanding Past Societies"
+    },
+    {
+        "ID": 901,
+        "Name": "Urban and Regional Planning"
+    },
+    {
+        "ID": 993,
+        "Name": "Veterinary Pharmaceutical Products"
+    },
+    {
+        "ID": 845,
+        "Name": "Veterinary Sciences"
+    },
+    {
+        "ID": 938,
+        "Name": "Visual Arts and Crafts"
+    },
+    {
+        "ID": 1012,
+        "Name": "Water Transport"
+    },
+    {
+        "ID": 960,
+        "Name": "Winter Grains And Oilseeds"
+    },
+    {
+        "ID": 989,
+        "Name": "Wood, Wood Products And Paper"
+    },
+    {
+        "ID": 1050,
+        "Name": "Work And Institutional Development"
+    },
+    {
+        "ID": 837,
+        "Name": "Zoology"
+    }
+]

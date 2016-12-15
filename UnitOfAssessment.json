@@ -1,0 +1,182 @@
+[
+    {
+        "ID": 1,
+        "Panel": "A         ",
+        "Subject": "Clinical Medicine"
+    },
+    {
+        "ID": 2,
+        "Panel": "A         ",
+        "Subject": "Public Health, Health Services and Primary Care"
+    },
+    {
+        "ID": 3,
+        "Panel": "A         ",
+        "Subject": "Allied Health Professions, Dentistry, Nursing and Pharmacy"
+    },
+    {
+        "ID": 4,
+        "Panel": "A         ",
+        "Subject": "Psychology, Psychiatry and Neuroscience"
+    },
+    {
+        "ID": 5,
+        "Panel": "A         ",
+        "Subject": "Biological Sciences"
+    },
+    {
+        "ID": 6,
+        "Panel": "A         ",
+        "Subject": "Agriculture, Veterinary and Food Science"
+    },
+    {
+        "ID": 7,
+        "Panel": "B         ",
+        "Subject": "Earth Systems and Environmental Sciences"
+    },
+    {
+        "ID": 8,
+        "Panel": "B         ",
+        "Subject": "Chemistry"
+    },
+    {
+        "ID": 9,
+        "Panel": "B         ",
+        "Subject": "Physics"
+    },
+    {
+        "ID": 10,
+        "Panel": "B         ",
+        "Subject": "Mathematical Sciences"
+    },
+    {
+        "ID": 11,
+        "Panel": "B         ",
+        "Subject": "Computer Science and Informatics"
+    },
+    {
+        "ID": 12,
+        "Panel": "B         ",
+        "Subject": "Aeronautical, Mechanical, Chemical and Manufacturing Engineering"
+    },
+    {
+        "ID": 13,
+        "Panel": "B         ",
+        "Subject": "Electrical and Electronic Engineering, Metallurgy and Materials"
+    },
+    {
+        "ID": 14,
+        "Panel": "B         ",
+        "Subject": "Civil and Construction Engineering"
+    },
+    {
+        "ID": 15,
+        "Panel": "B         ",
+        "Subject": "General Engineering"
+    },
+    {
+        "ID": 16,
+        "Panel": "C         ",
+        "Subject": "Architecture, Built Environment and Planning"
+    },
+    {
+        "ID": 17,
+        "Panel": "C         ",
+        "Subject": "Geography, Environmental Studies and Archaeology"
+    },
+    {
+        "ID": 18,
+        "Panel": "C         ",
+        "Subject": "Economics and Econometrics"
+    },
+    {
+        "ID": 19,
+        "Panel": "C         ",
+        "Subject": "Business and Management Studies"
+    },
+    {
+        "ID": 20,
+        "Panel": "C         ",
+        "Subject": "Law"
+    },
+    {
+        "ID": 21,
+        "Panel": "C         ",
+        "Subject": "Politics and International Studies"
+    },
+    {
+        "ID": 22,
+        "Panel": "C         ",
+        "Subject": "Social Work and Social Policy"
+    },
+    {
+        "ID": 23,
+        "Panel": "C         ",
+        "Subject": "Sociology"
+    },
+    {
+        "ID": 24,
+        "Panel": "C         ",
+        "Subject": "Anthropology and Development Studies"
+    },
+    {
+        "ID": 25,
+        "Panel": "C         ",
+        "Subject": "Education"
+    },
+    {
+        "ID": 26,
+        "Panel": "C         ",
+        "Subject": "Sport and Exercise Sciences, Leisure and Tourism"
+    },
+    {
+        "ID": 27,
+        "Panel": "D         ",
+        "Subject": "Area Studies"
+    },
+    {
+        "ID": 28,
+        "Panel": "D         ",
+        "Subject": "Modern Languages and Linguistics"
+    },
+    {
+        "ID": 29,
+        "Panel": "D         ",
+        "Subject": "English Language and Literature"
+    },
+    {
+        "ID": 30,
+        "Panel": "D         ",
+        "Subject": "History"
+    },
+    {
+        "ID": 31,
+        "Panel": "D         ",
+        "Subject": "Classics"
+    },
+    {
+        "ID": 32,
+        "Panel": "D         ",
+        "Subject": "Philosophy"
+    },
+    {
+        "ID": 33,
+        "Panel": "D         ",
+        "Subject": "Theology and Religious Studies"
+    },
+    {
+        "ID": 34,
+        "Panel": "D         ",
+        "Subject": "Art and Design: History, Practice and Theory"
+    },
+    {
+        "ID": 35,
+        "Panel": "D         ",
+        "Subject": "Music, Drama, Dance and Performing Arts"
+    },
+    {
+        "ID": 36,
+        "Panel": "D         ",
+        "Subject": "Communication, Cultural and Media Studies, Library and Information Management "
+    }
+]
