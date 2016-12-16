@@ -10,9 +10,13 @@ import time
 import json
 from pprint import pprint
 
+from HTMLParser import HTMLParser
+h = HTMLParser()
+import requests
+import time
 
 # Extracts the information from a single case study, creates a payload object containing the corpusID and API key ready to be sent
-def case_study_insert_request(caseStudy, corpus_id, api_key):
+def case_study_insert_request(caseStudy, corpus_id):
 
     # Create payload structure
     payload = {}
@@ -20,30 +24,36 @@ def case_study_insert_request(caseStudy, corpus_id, api_key):
     payload['properties']['type'] = "article"
 
     # Pteraforma API stuff
-    payload['api_key'] = api_key
-    payload['corpus'] = corpus_id
+    #payload['api_key'] = api_key
+    payload['collection'] = corpus_id
+    #payload['options'] = {
+    #    'doTemporal': True,
+    #    'doGeo': True,
+    #    'doGeoboost': True
+    #}
+
     payload['options'] = {
-        'doTemporal': True,
-        'doGeo': True,
-        'doGeoboost': True
+        'doTemporal': False,
+        'doGeo': False,
+        'doGeoboost': False
     }
 
     # Process bilographic header information
-    payload['title'] = caseStudy["Title"]
-    payload['properties']['CaseStudyId'] = caseStudy["CaseStudyId"]
+    payload['title'] = h.unescape(caseStudy["Title"]).strip()
+    payload['properties']['CaseStudyId'] = caseStudy["CaseStudyId"].strip()
 
     payload['properties']['Funders'] = caseStudy["Funders"] # funders.json
 
-    payload['properties']['Panel'] = caseStudy["Panel"] # UnitOfAssessment.json (panel field)
-    payload['properties']['UOA'] = caseStudy["UOA"] # UnitOfAssessment.json (subject field)
+    payload['properties']['Panel'] = caseStudy["Panel"].strip() # UnitOfAssessment.json (panel field)
+    payload['properties']['UOA'] = caseStudy["UOA"].strip() # UnitOfAssessment.json (subject field)
 
     payload['properties']['ResearchSubjectAreas'] = caseStudy["ResearchSubjectAreas"] # subjects.json
 
-    payload['properties']['ImpactType'] = caseStudy["ImpactType"] # ImpactType.json
-    payload['properties']['Institution'] = caseStudy["Institution"] # institutions.json
+    payload['properties']['ImpactType'] = caseStudy["ImpactType"].strip() # ImpactType.json
+    payload['properties']['Institution'] = caseStudy["Institution"].strip() # institutions.json
 
-    payload['properties']['References'] = caseStudy["References"]
-    payload['properties']['Sources'] = caseStudy["Sources"]
+    payload['properties']['References'] = h.unescape(caseStudy["References"]).strip()
+    payload['properties']['Sources'] = h.unescape(caseStudy["Sources"]).strip()
 
     payload['properties']['Continent'] = caseStudy["Continent"]
     payload['properties']['Country'] = caseStudy["Country"]
@@ -51,42 +61,47 @@ def case_study_insert_request(caseStudy, corpus_id, api_key):
     payload['properties']['UKLocation'] = caseStudy["UKLocation"]
     payload['properties']['UKRegion'] = caseStudy["UKRegion"]
 
+    payload['properties']['ImpactSummary'] = caseStudy["ImpactSummary"].strip()
+    payload['properties']['UnderpinningResearch'] = caseStudy["UnderpinningResearch"].strip()
+    payload['properties']['ImpactDetails'] = caseStudy["ImpactDetails"].strip()
 
     ##
     ## Here are where the choices about how to strucutre the document go
     ## I have made it match the expected style, but it should be easy to change to just inserting a single paragraph for instance
     ##
 
-    payload['sections'] = []
+    #payload['sections'] = []
 
     ## Impact Summary
-    sectionTitle = "Impact Summary"
-    sectionType = "Impact Summary"
-    sectionParagraphs = []
-    sectionReferences = []
-    payload['sections'].append({ "title": sectionTitle, "type": sectionType , "number": "0", "paragraphs": sectionParagraphs, "references": sectionReferences})
+    #sectionTitle = "Impact Summary"
+    #sectionType = "Impact Summary"
+    #sectionParagraphs = []
+    #sectionReferences = []
+    #payload['sections'].append({ "title": sectionTitle, "type": sectionType , "number": "0", "paragraphs": sectionParagraphs, "references": sectionReferences})
 
     ## Underpinning Research
-    sectionTitle = "Underpinning Research"
-    sectionType = "Underpinning Research"
-    sectionParagraphs = []
-    sectionReferences = []
-    payload['sections'].append({ "title": sectionTitle, "type": sectionType , "number": "1", "paragraphs": sectionParagraphs, "references": sectionReferences})
+    #sectionTitle = "Underpinning Research"
+    #sectionType = "Underpinning Research"
+    #sectionParagraphs = []
+    #sectionReferences = []
+    #payload['sections'].append({ "title": sectionTitle, "type": sectionType , "number": "1", "paragraphs": sectionParagraphs, "references": sectionReferences})
 
     ## Impact Details
-    sectionTitle = "Impact Details"
-    sectionType = "Impact Details"
-    sectionParagraphs = []
-    sectionReferences = []
-    payload['sections'].append({ "title": sectionTitle, "type": sectionType , "number": "2", "paragraphs": sectionParagraphs, "references": sectionReferences})
-
+    #sectionTitle = "Impact Details"
+    #sectionType = "Impact Details"
+    #sectionParagraphs = []
+    #sectionReferences = []
+    #payload['sections'].append({ "title": sectionTitle, "type": sectionType , "number": "2", "paragraphs": sectionParagraphs, "references": sectionReferences})
 
     # Return the Payload
+    raw_text = h.unescape(caseStudy["ImpactSummary"].replace("\r\n"," ").replace("\n"," ")) + " " + h.unescape(caseStudy["UnderpinningResearch"].replace("\r\n"," ").replace("\n"," ")) + " " + h.unescape(caseStudy["ImpactDetails"].replace("\r\n"," ").replace("\n"," ")).strip()
+    payload['text'] = raw_text
+
     return payload
 
 
 # Method for process the entire archive (change the glob regex to change that scope)
-def process_case_studies(filename, api_key, corpus_id):
+def process_case_studies(filename, userId, authToken, corpus_id):
 
     # Measuring execution time
     start = time.time()
@@ -102,14 +117,25 @@ def process_case_studies(filename, api_key, corpus_id):
         # Loop over each case study in the json file
         for caseStudy in allStudies:
             # Creates the request object, this is the point of extension for integration with Pteraforma
-            request = case_study_insert_request(caseStudy, corpus_id, api_key)
+            data = case_study_insert_request(caseStudy, corpus_id)
+
+            url = "http://52.25.87.132:3030/api/v1/collections/document"
+            headers = {'Content-Type': 'application/json', 'X-User-Id': userId, 'X-Auth-Token': authToken}
+            #pprint(headers)
+            payload = json.dumps( { "data": data } )
+            print(data["title"])
+
+            r = requests.post(url, data=payload, headers=headers)
+            time.sleep(0.2)
+            #print(r)
+            #exit(1)
 
             # Logging code for feedback, remove if run in production
             if (count % 1000 == 0):
                 print(count, time.time() - start)
 
             # Saving the result
-            dataArray.append(request)
+            #dataArray.append(request)
 
             # Implements a cut off number to processm, helpful for testing
             count = count + 1
@@ -209,8 +235,14 @@ Funders = populate_funders()
 extend_reference_lists(ImpactTypes, Subjects, UnitOfAssessment, Institutions, Funders)
 
 # Pteraform Parameters
-api_key = "a1df798b5a10274bf32106303e91f05f"
-corpus_id = 52
+headers = {'Content-Type': 'application/json'}
+loginUrl = "http://52.25.87.132:3030/api/v1/login"
+payload = json.dumps( { "email": "admin@admin.com", "password": "password" } )
+r = requests.post(loginUrl, data=payload, headers=headers)
+rjson = r.json()
+userId = rjson["data"]["userId"]
+authToken = rjson["data"]["authToken"]
+corpus_id = "E8532fa3a482be084"
 
-dataArray = process_case_studies("allStudies.json", api_key, corpus_id)
+dataArray = process_case_studies("allStudies.json", userId, authToken, corpus_id)
 len(dataArray)
